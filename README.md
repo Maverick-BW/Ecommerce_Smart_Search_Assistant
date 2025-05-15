@@ -16,14 +16,14 @@ This project is an AI-powered chatbot assistant that helps users find suitable l
 ---
 ## library Versions 
 
-faiss-cpu                 1.11.0 
-huggingface-hub           0.31.1 
-langchain                 0.3.25 
-langchain-community       0.3.24 
-langchain-core            0.3.59 
-langchain-text-splitters  0.3.8 
-pandas                    2.2.3  
-prompt_toolkit            3.0.50 
+- faiss-cpu                 1.11.0 
+- huggingface-hub           0.31.1 
+- langchain                 0.3.25 
+- langchain-community       0.3.24 
+- langchain-core            0.3.59 
+- langchain-text-splitters  0.3.8 
+- pandas                    2.2.3  
+- prompt_toolkit            3.0.50 
 
 
 ##Project Flow
